@@ -79,11 +79,13 @@ namespace Digitron
             }
      
         }
+        //CE
         private void buttonC_Click(object sender, EventArgs e)
         {
             bunifuTextBox1.Text = "0";
             
         }
+        //C
         private void buttonCE_Click(object sender, EventArgs e)
         {
             bunifuTextBox1.Text = "0";
